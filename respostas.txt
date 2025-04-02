@@ -1,0 +1,9 @@
+Nome de usuário
+Senha
+UID
+GID principal
+GECOS
+Diretório inicial
+Shell
+
+nome:senha:uid:gid:geos:
